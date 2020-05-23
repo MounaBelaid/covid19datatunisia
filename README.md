@@ -1,0 +1,2 @@
+# covid19datatunisia
+Official information on the progression of the epidemic COVID-19 in Tunisia is quite fragmented, and is almost never structured in the form of data.  The objective of this repository is to consolidate official information, and make it available in open and easily reusable formats (JSON, CSV…).  No need to waste time writing scrappers, at this stage it is more efficient to copy the data by hand, and to indicate the source.
