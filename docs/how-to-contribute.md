@@ -27,7 +27,7 @@ The new row contains data represented respectively in every column as follows :
 ▲ location_code_type The type of standardized location code being used according to the covid19R controlled vocabulary. Here we use “ISO 3166-2:TN”.
 
 ▲ data_type - the type of data in that given row. Includes cases new : new confirmed Covid-19 cases during on the current date,
-recovered_new : new number of patients recovered on the current date and deaths_new : new deaths on the current datea.
+recovered_new : new number of patients recovered on the current date and deaths_new : new deaths on the current date.
 
 ▲ value - number of cases of each data type.
 
