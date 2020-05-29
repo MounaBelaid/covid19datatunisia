@@ -1,4 +1,4 @@
-"date","location","location_type","location_code","location_code_type","data_type","value"
+date,"location","location_type","location_code","location_code_type","data_type","value"
 2020-03-02,"Gafsa","state_government","TN-71","ISO 3166-2:TN","cases_new",1
 2020-03-08,"Mahdia","state_government","TN-53","ISO 3166-2:TN","cases_new",1
 2020-03-09,"Bizerte","state_government","TN-23","ISO 3166-2:TN","cases_new",1
@@ -619,6 +619,12 @@
 2020-05-27,"Sidi Bouzid","state_government","TN-43","ISO 3166-2:TN","cases_new",0
 2020-05-27,"Sousse","state_government","TN-51","ISO 3166-2:TN","cases_new",2
 2020-05-27,"Tunis","state_government","TN-11","ISO 3166-2:TN","cases_new",2
+2020-05-28,"Gafsa","state_government","TN-71","ISO 3166-2:TN","cases_new",1
+2020-05-28,"Kairouan","state_government","TN-41","ISO 3166-2:TN","cases_new",1
+2020-05-28,"Kebili","state_government","TN-73","ISO 3166-2:TN","cases_new",0
+2020-05-28,"Manouba","state_government","TN-14","ISO 3166-2:TN","cases_new",1
+2020-05-28,"Sousse","state_government","TN-51","ISO 3166-2:TN","cases_new",0
+2020-05-28,"Tunis","state_government","TN-11","ISO 3166-2:TN","cases_new",0
 2020-03-02,"Gafsa","state_government","TN-71","ISO 3166-2:TN","deaths_new",0
 2020-03-08,"Mahdia","state_government","TN-53","ISO 3166-2:TN","deaths_new",0
 2020-03-09,"Bizerte","state_government","TN-23","ISO 3166-2:TN","deaths_new",0
@@ -1239,6 +1245,12 @@
 2020-05-27,"Sidi Bouzid","state_government","TN-43","ISO 3166-2:TN","deaths_new",0
 2020-05-27,"Sousse","state_government","TN-51","ISO 3166-2:TN","deaths_new",0
 2020-05-27,"Tunis","state_government","TN-11","ISO 3166-2:TN","deaths_new",0
+2020-05-28,"Gafsa","state_government","TN-71","ISO 3166-2:TN","deaths_new",0
+2020-05-28,"Kairouan","state_government","TN-41","ISO 3166-2:TN","deaths_new",0
+2020-05-28,"Kebili","state_government","TN-73","ISO 3166-2:TN","deaths_new",0
+2020-05-28,"Manouba","state_government","TN-14","ISO 3166-2:TN","deaths_new",0
+2020-05-28,"Sousse","state_government","TN-51","ISO 3166-2:TN","deaths_new",0
+2020-05-28,"Tunis","state_government","TN-11","ISO 3166-2:TN","deaths_new",0
 2020-03-02,"Gafsa","state_government","TN-71","ISO 3166-2:TN","recovered_new",0
 2020-03-08,"Mahdia","state_government","TN-53","ISO 3166-2:TN","recovered_new",0
 2020-03-09,"Bizerte","state_government","TN-23","ISO 3166-2:TN","recovered_new",0
@@ -1859,3 +1871,9 @@
 2020-05-27,"Sidi Bouzid","state_government","TN-43","ISO 3166-2:TN","recovered_new",1
 2020-05-27,"Sousse","state_government","TN-51","ISO 3166-2:TN","recovered_new",0
 2020-05-27,"Tunis","state_government","TN-11","ISO 3166-2:TN","recovered_new",0
+2020-05-28,"Gafsa","state_government","TN-71","ISO 3166-2:TN","recovered_new",0
+2020-05-28,"Kairouan","state_government","TN-41","ISO 3166-2:TN","recovered_new",0
+2020-05-28,"Kebili","state_government","TN-73","ISO 3166-2:TN","recovered_new",3
+2020-05-28,"Manouba","state_government","TN-14","ISO 3166-2:TN","recovered_new",0
+2020-05-28,"Sousse","state_government","TN-51","ISO 3166-2:TN","recovered_new",1
+2020-05-28,"Tunis","state_government","TN-11","ISO 3166-2:TN","recovered_new",4
