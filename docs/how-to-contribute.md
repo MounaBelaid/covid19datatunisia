@@ -20,11 +20,11 @@ The new row contains data represented respectively in every column as follows :
 
 ▲ location - The name of the government as provided by the data sources.
 
-▲ location_type - The type of location using the covid19R controlled vocabulary. In this case, it's “state_government”.
+▲ location_type - The type of location using the covid19R controlled vocabulary. In this case, it's “state”.
 
 ▲ location_code - A standardized location code using a national or international standard. In this case, . See https://www.iso.org/obp/ui/#iso:code:3166:TN for details.
 
-▲ location_code_type The type of standardized location code being used according to the covid19R controlled vocabulary. Here we use “ISO 3166-2:TN”.
+▲ location_code_type The type of standardized location code being used according to the covid19R controlled vocabulary. Here we use “ISO 3166-2”.
 
 ▲ data_type - the type of data in that given row. Includes cases new : new confirmed Covid-19 cases during on the current date,
 recovered_new : new number of patients recovered on the current date and deaths_new : new deaths on the current date.
