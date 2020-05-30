@@ -607,7 +607,7 @@ date,"location","location_type","location_code","location_code_type","data_type"
 2020-05-26,"Tataouine","state","TN-83","iso_3166_2","cases_new",0
 2020-05-27,"Ariana","state","TN-12","iso_3166_2","cases_new",2
 2020-05-27,"Beja","state","TN-31","iso_3166_2","cases_new",1
-2020-05-27,"Ben Arous","state","TN-13","iso_3166_2","cases_new",2
+2020-05-27,"Ben Arous","state","TN-13","iso_3166_2","cases_new",1
 2020-05-27,"Bizerte","state","TN-23","iso_3166_2","cases_new",1
 2020-05-27,"Gabes","state","TN-81","iso_3166_2","cases_new",3
 2020-05-27,"Gafsa","state","TN-71","iso_3166_2","cases_new",1
@@ -615,6 +615,7 @@ date,"location","location_type","location_code","location_code_type","data_type"
 2020-05-27,"Kebili","state","TN-73","iso_3166_2","cases_new",0
 2020-05-27,"Mahdia","state","TN-53","iso_3166_2","cases_new",0
 2020-05-27,"Monastir","state","TN-52","iso_3166_2","cases_new",2
+2020-05-27,"Nabeul","state","TN-21","iso_3166_2","cases_new",1
 2020-05-27,"Sfax","state","TN-61","iso_3166_2","cases_new",0
 2020-05-27,"Sidi Bouzid","state","TN-43","iso_3166_2","cases_new",0
 2020-05-27,"Sousse","state","TN-51","iso_3166_2","cases_new",2
@@ -625,6 +626,12 @@ date,"location","location_type","location_code","location_code_type","data_type"
 2020-05-28,"Manouba","state","TN-14","iso_3166_2","cases_new",1
 2020-05-28,"Sousse","state","TN-51","iso_3166_2","cases_new",0
 2020-05-28,"Tunis","state","TN-11","iso_3166_2","cases_new",0
+2020-05-29,"Ben Arous","state","TN-13","iso_3166_2","cases_new",1
+2020-05-29,"Bizerte","state","TN-23","iso_3166_2","cases_new",0
+2020-05-29,"Gabes","state","TN-81","iso_3166_2","cases_new",2
+2020-05-29,"Kebili","state","TN-73","iso_3166_2","cases_new",0
+2020-05-29,"Mednine","state","TN-82","iso_3166_2","cases_new",1
+2020-05-29,"Sidi Bouzid","state","TN-43","iso_3166_2","cases_new",1
 2020-03-02,"Gafsa","state","TN-71","iso_3166_2","deaths_new",0
 2020-03-08,"Mahdia","state","TN-53","iso_3166_2","deaths_new",0
 2020-03-09,"Bizerte","state","TN-23","iso_3166_2","deaths_new",0
@@ -1241,6 +1248,7 @@ date,"location","location_type","location_code","location_code_type","data_type"
 2020-05-27,"Kebili","state","TN-73","iso_3166_2","deaths_new",0
 2020-05-27,"Mahdia","state","TN-53","iso_3166_2","deaths_new",0
 2020-05-27,"Monastir","state","TN-52","iso_3166_2","deaths_new",0
+2020-05-27,"Nabeul","state","TN-21","iso_3166_2","deaths_new",0
 2020-05-27,"Sfax","state","TN-61","iso_3166_2","deaths_new",0
 2020-05-27,"Sidi Bouzid","state","TN-43","iso_3166_2","deaths_new",0
 2020-05-27,"Sousse","state","TN-51","iso_3166_2","deaths_new",0
@@ -1251,6 +1259,12 @@ date,"location","location_type","location_code","location_code_type","data_type"
 2020-05-28,"Manouba","state","TN-14","iso_3166_2","deaths_new",0
 2020-05-28,"Sousse","state","TN-51","iso_3166_2","deaths_new",0
 2020-05-28,"Tunis","state","TN-11","iso_3166_2","deaths_new",0
+2020-05-29,"Ben Arous","state","TN-13","iso_3166_2","deaths_new",0
+2020-05-29,"Bizerte","state","TN-23","iso_3166_2","deaths_new",0
+2020-05-29,"Gabes","state","TN-81","iso_3166_2","deaths_new",0
+2020-05-29,"Kebili","state","TN-73","iso_3166_2","deaths_new",0
+2020-05-29,"Mednine","state","TN-82","iso_3166_2","deaths_new",0
+2020-05-29,"Sidi Bouzid","state","TN-43","iso_3166_2","deaths_new",0
 2020-03-02,"Gafsa","state","TN-71","iso_3166_2","recovered_new",0
 2020-03-08,"Mahdia","state","TN-53","iso_3166_2","recovered_new",0
 2020-03-09,"Bizerte","state","TN-23","iso_3166_2","recovered_new",0
@@ -1867,6 +1881,7 @@ date,"location","location_type","location_code","location_code_type","data_type"
 2020-05-27,"Kebili","state","TN-73","iso_3166_2","recovered_new",2
 2020-05-27,"Mahdia","state","TN-53","iso_3166_2","recovered_new",1
 2020-05-27,"Monastir","state","TN-52","iso_3166_2","recovered_new",1
+2020-05-27,"Nabeul","state","TN-21","iso_3166_2","recovered_new",0
 2020-05-27,"Sfax","state","TN-61","iso_3166_2","recovered_new",2
 2020-05-27,"Sidi Bouzid","state","TN-43","iso_3166_2","recovered_new",1
 2020-05-27,"Sousse","state","TN-51","iso_3166_2","recovered_new",0
@@ -1877,3 +1892,9 @@ date,"location","location_type","location_code","location_code_type","data_type"
 2020-05-28,"Manouba","state","TN-14","iso_3166_2","recovered_new",0
 2020-05-28,"Sousse","state","TN-51","iso_3166_2","recovered_new",1
 2020-05-28,"Tunis","state","TN-11","iso_3166_2","recovered_new",4
+2020-05-29,"Ben Arous","state","TN-13","iso_3166_2","recovered_new",0
+2020-05-29,"Bizerte","state","TN-23","iso_3166_2","recovered_new",1
+2020-05-29,"Gabes","state","TN-81","iso_3166_2","recovered_new",0
+2020-05-29,"Kebili","state","TN-73","iso_3166_2","recovered_new",2
+2020-05-29,"Mednine","state","TN-82","iso_3166_2","recovered_new",0
+2020-05-29,"Sidi Bouzid","state","TN-43","iso_3166_2","recovered_new",1
