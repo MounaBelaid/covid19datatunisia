@@ -13,8 +13,9 @@ On GitHub, saved changes are called commits. Each commit has an associated commi
 Commit messages capture the history of your changes, so other contributors can understand what you’ve done and why.
 
 - Click the  pencil icon in the upper right corner of the file view to edit. In the editor, the changes that you would make consist of 
-adding a row to the data file (https://github.com/MounaBelaid/covid19datatunisia/edit/master/dist/data.csv).
-The new row contains data represented respectively in every column as follows :
+adding rows to the data file (https://github.com/MounaBelaid/covid19datatunisia/edit/master/dist/data.csv) according to what official
+sources declare.
+The new rows contain data represented respectively in every column as follows :
 
 ▲ date - The date in YYYY-MM-DD form.
 
