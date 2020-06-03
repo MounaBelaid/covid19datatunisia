@@ -648,6 +648,8 @@ date,"location","location_type","location_code","location_code_type","data_type"
 2020-06-01,"Kebili","state","TN-73","iso_3166_2","cases_new",0
 2020-06-01,"Nabeul","state","TN-21","iso_3166_2","cases_new",1
 2020-06-01,"Sousse","state","TN-51","iso_3166_2","cases_new",1
+2020-06-02,"Gafsa","state","TN-71","iso_3166_2","cases_new",0
+2020-06-02,"Mahdia","state","TN-53","iso_3166_2","cases_new",1
 2020-03-02,"Gafsa","state","TN-71","iso_3166_2","deaths_new",0
 2020-03-08,"Mahdia","state","TN-53","iso_3166_2","deaths_new",0
 2020-03-09,"Bizerte","state","TN-23","iso_3166_2","deaths_new",0
@@ -1297,6 +1299,8 @@ date,"location","location_type","location_code","location_code_type","data_type"
 2020-06-01,"Kebili","state","TN-73","iso_3166_2","deaths_new",0
 2020-06-01,"Nabeul","state","TN-21","iso_3166_2","deaths_new",0
 2020-06-01,"Sousse","state","TN-51","iso_3166_2","deaths_new",0
+2020-06-02,"Gafsa","state","TN-71","iso_3166_2","deaths_new",1
+2020-06-02,"Mahdia","state","TN-53","iso_3166_2","deaths_new",0
 2020-03-02,"Gafsa","state","TN-71","iso_3166_2","recovered_new",0
 2020-03-08,"Mahdia","state","TN-53","iso_3166_2","recovered_new",0
 2020-03-09,"Bizerte","state","TN-23","iso_3166_2","recovered_new",0
@@ -1946,3 +1950,5 @@ date,"location","location_type","location_code","location_code_type","data_type"
 2020-06-01,"Kebili","state","TN-73","iso_3166_2","recovered_new",1
 2020-06-01,"Nabeul","state","TN-21","iso_3166_2","recovered_new",0
 2020-06-01,"Sousse","state","TN-51","iso_3166_2","recovered_new",0
+2020-06-02,"Gafsa","state","TN-71","iso_3166_2","recovered_new",0
+2020-06-02,"Mahdia","state","TN-53","iso_3166_2","recovered_new",0
