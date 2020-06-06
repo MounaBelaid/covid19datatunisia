@@ -1,4 +1,4 @@
-date,"location","location_type","location_code","location_code_type","data_type","value"
+"date","location","location_type","location_code","location_code_type","data_type","value"
 2020-03-02,"Gafsa","state","TN-71","iso_3166_2","cases_new",1
 2020-03-08,"Mahdia","state","TN-53","iso_3166_2","cases_new",1
 2020-03-09,"Bizerte","state","TN-23","iso_3166_2","cases_new",1
@@ -652,6 +652,12 @@ date,"location","location_type","location_code","location_code_type","data_type"
 2020-06-02,"Mahdia","state","TN-53","iso_3166_2","cases_new",1
 2020-06-03,"Manouba","state","TN-14","iso_3166_2","cases_new",0
 2020-06-03,"Mednine","state","TN-82","iso_3166_2","cases_new",0
+2020-06-04,"Tunis","state","TN-11","iso_3166_2","cases_new",0
+2020-06-05,"Gafsa","state","TN-71","iso_3166_2","cases_new",0
+2020-06-05,"kebili","state",NA,"iso_3166_2","cases_new",0
+2020-06-05,"Mednine","state","TN-82","iso_3166_2","cases_new",0
+2020-06-05,"Tataouine","state","TN-83","iso_3166_2","cases_new",0
+2020-06-05,"Tunis","state","TN-11","iso_3166_2","cases_new",0
 2020-03-02,"Gafsa","state","TN-71","iso_3166_2","deaths_new",0
 2020-03-08,"Mahdia","state","TN-53","iso_3166_2","deaths_new",0
 2020-03-09,"Bizerte","state","TN-23","iso_3166_2","deaths_new",0
@@ -1305,6 +1311,12 @@ date,"location","location_type","location_code","location_code_type","data_type"
 2020-06-02,"Mahdia","state","TN-53","iso_3166_2","deaths_new",0
 2020-06-03,"Manouba","state","TN-14","iso_3166_2","deaths_new",0
 2020-06-03,"Mednine","state","TN-82","iso_3166_2","deaths_new",0
+2020-06-04,"Tunis","state","TN-11","iso_3166_2","deaths_new",0
+2020-06-05,"Gafsa","state","TN-71","iso_3166_2","deaths_new",0
+2020-06-05,"kebili","state",NA,"iso_3166_2","deaths_new",0
+2020-06-05,"Mednine","state","TN-82","iso_3166_2","deaths_new",0
+2020-06-05,"Tataouine","state","TN-83","iso_3166_2","deaths_new",0
+2020-06-05,"Tunis","state","TN-11","iso_3166_2","deaths_new",0
 2020-03-02,"Gafsa","state","TN-71","iso_3166_2","recovered_new",0
 2020-03-08,"Mahdia","state","TN-53","iso_3166_2","recovered_new",0
 2020-03-09,"Bizerte","state","TN-23","iso_3166_2","recovered_new",0
@@ -1958,3 +1970,9 @@ date,"location","location_type","location_code","location_code_type","data_type"
 2020-06-02,"Mahdia","state","TN-53","iso_3166_2","recovered_new",0
 2020-06-03,"Manouba","state","TN-14","iso_3166_2","recovered_new",2
 2020-06-03,"Mednine","state","TN-82","iso_3166_2","recovered_new",1
+2020-06-04,"Tunis","state","TN-11","iso_3166_2","recovered_new",1
+2020-06-05,"Gafsa","state","TN-71","iso_3166_2","recovered_new",2
+2020-06-05,"kebili","state",NA,"iso_3166_2","recovered_new",2
+2020-06-05,"Mednine","state","TN-82","iso_3166_2","recovered_new",2
+2020-06-05,"Tataouine","state","TN-83","iso_3166_2","recovered_new",1
+2020-06-05,"Tunis","state","TN-11","iso_3166_2","recovered_new",1
