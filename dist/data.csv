@@ -675,6 +675,7 @@
 2020-06-11,"Sfax","state","TN-61","iso_3166_2","cases_new",1
 2020-06-11,"Tunis","state","TN-11","iso_3166_2","cases_new",1
 2020-06-12,"Ariana","state","TN-12","iso_3166_2","cases_new",0
+2020-06-12,"Monastir","state","TN-52","iso_3166_2","cases_new",1
 2020-06-13,"Nabeul","state","TN-21","iso_3166_2","cases_new",0
 2020-06-14,"Beja","state","TN-31","iso_3166_2","cases_new",0
 2020-06-15,"Gabes","state","TN-81","iso_3166_2","cases_new",0
@@ -1355,6 +1356,7 @@
 2020-06-11,"Sfax","state","TN-61","iso_3166_2","deaths_new",0
 2020-06-11,"Tunis","state","TN-11","iso_3166_2","deaths_new",0
 2020-06-12,"Ariana","state","TN-12","iso_3166_2","deaths_new",0
+2020-06-12,"Monastir","state","TN-52","iso_3166_2","deaths_new",0
 2020-06-13,"Nabeul","state","TN-21","iso_3166_2","deaths_new",0
 2020-06-14,"Beja","state","TN-31","iso_3166_2","deaths_new",0
 2020-06-15,"Gabes","state","TN-81","iso_3166_2","deaths_new",0
@@ -2035,6 +2037,7 @@
 2020-06-11,"Sfax","state","TN-61","iso_3166_2","recovered_new",0
 2020-06-11,"Tunis","state","TN-11","iso_3166_2","recovered_new",1
 2020-06-12,"Ariana","state","TN-12","iso_3166_2","recovered_new",1
+2020-06-12,"Monastir","state","TN-52","iso_3166_2","recovered_new",0
 2020-06-13,"Nabeul","state","TN-21","iso_3166_2","recovered_new",1
 2020-06-14,"Beja","state","TN-31","iso_3166_2","recovered_new",1
 2020-06-15,"Gabes","state","TN-81","iso_3166_2","recovered_new",1
