@@ -740,6 +740,7 @@
 2020-06-22,"Gabes","state","TN-81","iso_3166_2","cases_new",0
 2020-06-22,"Kairouan","state","TN-41","iso_3166_2","cases_new",0
 2020-06-22,"Mednine","state","TN-82","iso_3166_2","cases_new",0
+2020-06-23,"Kef","state","TN-33","iso_3166_2","cases_new",1
 2020-03-02,"Gafsa","state","TN-71","iso_3166_2","deaths_new",0
 2020-03-08,"Mahdia","state","TN-53","iso_3166_2","deaths_new",0
 2020-03-09,"Bizerte","state","TN-23","iso_3166_2","deaths_new",0
@@ -1481,6 +1482,7 @@
 2020-06-22,"Gabes","state","TN-81","iso_3166_2","deaths_new",0
 2020-06-22,"Kairouan","state","TN-41","iso_3166_2","deaths_new",0
 2020-06-22,"Mednine","state","TN-82","iso_3166_2","deaths_new",0
+2020-06-23,"Kef","state","TN-33","iso_3166_2","deaths_new",0
 2020-03-02,"Gafsa","state","TN-71","iso_3166_2","recovered_new",0
 2020-03-08,"Mahdia","state","TN-53","iso_3166_2","recovered_new",0
 2020-03-09,"Bizerte","state","TN-23","iso_3166_2","recovered_new",0
@@ -2222,3 +2224,4 @@
 2020-06-22,"Gabes","state","TN-81","iso_3166_2","recovered_new",1
 2020-06-22,"Kairouan","state","TN-41","iso_3166_2","recovered_new",1
 2020-06-22,"Mednine","state","TN-82","iso_3166_2","recovered_new",1
+2020-06-23,"Kef","state","TN-33","iso_3166_2","recovered_new",0
