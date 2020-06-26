@@ -7,7 +7,7 @@ No need to waste time writing scrappers, at this stage it is more efficient to c
 
 ## Output data file
 
-- [data.csv](https://github.com/opencovid19-fr/data/raw/master/dist/data.csv)
+- [data.csv](https://github.com/MounaBelaid/covid19datatunisia/blob/master/dist/data.csv)
 
 ## Sources used
 
