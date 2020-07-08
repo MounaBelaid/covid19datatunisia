@@ -788,6 +788,11 @@
 2020-07-05,"Kasserine","state","TN-42","iso_3166_2","cases_new",3
 2020-07-05,"Monastir","state","TN-52","iso_3166_2","cases_new",2
 2020-07-05,"Sfax","state","TN-61","iso_3166_2","cases_new",4
+2020-07-06,"Ben Arous","state","TN-13","iso_3166_2","cases_new",1
+2020-07-06,"Kef","state","TN-33","iso_3166_2","cases_new",1
+2020-07-06,"Mednine","state","TN-82","iso_3166_2","cases_new",2
+2020-07-06,"Sidi Bouzid","state","TN-43","iso_3166_2","cases_new",1
+2020-07-06,"Tozeur","state","TN-72","iso_3166_2","cases_new",1
 2020-03-02,"Gafsa","state","TN-71","iso_3166_2","deaths_new",0
 2020-03-08,"Mahdia","state","TN-53","iso_3166_2","deaths_new",0
 2020-03-09,"Bizerte","state","TN-23","iso_3166_2","deaths_new",0
@@ -1577,6 +1582,11 @@
 2020-07-05,"Kasserine","state","TN-42","iso_3166_2","deaths_new",0
 2020-07-05,"Monastir","state","TN-52","iso_3166_2","deaths_new",0
 2020-07-05,"Sfax","state","TN-61","iso_3166_2","deaths_new",0
+2020-07-06,"Ben Arous","state","TN-13","iso_3166_2","deaths_new",0
+2020-07-06,"Kef","state","TN-33","iso_3166_2","deaths_new",0
+2020-07-06,"Mednine","state","TN-82","iso_3166_2","deaths_new",0
+2020-07-06,"Sidi Bouzid","state","TN-43","iso_3166_2","deaths_new",0
+2020-07-06,"Tozeur","state","TN-72","iso_3166_2","deaths_new",0
 2020-03-02,"Gafsa","state","TN-71","iso_3166_2","recovered_new",0
 2020-03-08,"Mahdia","state","TN-53","iso_3166_2","recovered_new",0
 2020-03-09,"Bizerte","state","TN-23","iso_3166_2","recovered_new",0
@@ -2366,3 +2376,8 @@
 2020-07-05,"Kasserine","state","TN-42","iso_3166_2","recovered_new",0
 2020-07-05,"Monastir","state","TN-52","iso_3166_2","recovered_new",1
 2020-07-05,"Sfax","state","TN-61","iso_3166_2","recovered_new",0
+2020-07-06,"Ben Arous","state","TN-13","iso_3166_2","recovered_new",0
+2020-07-06,"Kef","state","TN-33","iso_3166_2","recovered_new",0
+2020-07-06,"Mednine","state","TN-82","iso_3166_2","recovered_new",0
+2020-07-06,"Sidi Bouzid","state","TN-43","iso_3166_2","recovered_new",0
+2020-07-06,"Tozeur","state","TN-72","iso_3166_2","recovered_new",0
