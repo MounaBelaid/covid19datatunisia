@@ -1516,6 +1516,96 @@
 2020-09-03,"Sousse","state","TN-51","iso_3166_2","cases_new",12
 2020-09-03,"Tataouine","state","TN-83","iso_3166_2","cases_new",4
 2020-09-03,"Tunis","state","TN-11","iso_3166_2","cases_new",30
+2020-09-04,"Ariana","state","TN-12","iso_3166_2","cases_new",13
+2020-09-04,"Beja","state","TN-31","iso_3166_2","cases_new",5
+2020-09-04,"Ben Arous","state","TN-13","iso_3166_2","cases_new",36
+2020-09-04,"Bizerte","state","TN-23","iso_3166_2","cases_new",2
+2020-09-04,"Gabes","state","TN-81","iso_3166_2","cases_new",42
+2020-09-04,"Jandouba","state",NA,"iso_3166_2","cases_new",3
+2020-09-04,"Kairouan","state","TN-41","iso_3166_2","cases_new",1
+2020-09-04,"Kasserine","state","TN-42","iso_3166_2","cases_new",1
+2020-09-04,"Kebili","state","TN-73","iso_3166_2","cases_new",2
+2020-09-04,"Kef","state","TN-33","iso_3166_2","cases_new",8
+2020-09-04,"Mednine","state","TN-82","iso_3166_2","cases_new",4
+2020-09-04,"Monastir","state","TN-52","iso_3166_2","cases_new",32
+2020-09-04,"Nabeul","state","TN-21","iso_3166_2","cases_new",12
+2020-09-04,"Sfax","state","TN-61","iso_3166_2","cases_new",8
+2020-09-04,"Sidi Bouzid","state","TN-43","iso_3166_2","cases_new",6
+2020-09-04,"Sousse","state","TN-51","iso_3166_2","cases_new",24
+2020-09-04,"Tataouine","state","TN-83","iso_3166_2","cases_new",2
+2020-09-04,"Tunis","state","TN-11","iso_3166_2","cases_new",32
+2020-09-04,"Zaghouan","state","TN-22","iso_3166_2","cases_new",1
+2020-09-05,"Ariana","state","TN-12","iso_3166_2","cases_new",32
+2020-09-05,"Ben Arous","state","TN-13","iso_3166_2","cases_new",45
+2020-09-05,"Bizerte","state","TN-23","iso_3166_2","cases_new",4
+2020-09-05,"Gabes","state","TN-81","iso_3166_2","cases_new",7
+2020-09-05,"Gafsa","state","TN-71","iso_3166_2","cases_new",1
+2020-09-05,"Jandouba","state",NA,"iso_3166_2","cases_new",31
+2020-09-05,"Kebili","state","TN-73","iso_3166_2","cases_new",18
+2020-09-05,"Kef","state","TN-33","iso_3166_2","cases_new",4
+2020-09-05,"Mahdia","state","TN-53","iso_3166_2","cases_new",1
+2020-09-05,"Manouba","state","TN-14","iso_3166_2","cases_new",13
+2020-09-05,"Mednine","state","TN-82","iso_3166_2","cases_new",5
+2020-09-05,"Monastir","state","TN-52","iso_3166_2","cases_new",32
+2020-09-05,"Nabeul","state","TN-21","iso_3166_2","cases_new",17
+2020-09-05,"Sfax","state","TN-61","iso_3166_2","cases_new",5
+2020-09-05,"Sidi Bouzid","state","TN-43","iso_3166_2","cases_new",1
+2020-09-05,"Sousse","state","TN-51","iso_3166_2","cases_new",14
+2020-09-05,"Tunis","state","TN-11","iso_3166_2","cases_new",34
+2020-09-05,"Zaghouan","state","TN-22","iso_3166_2","cases_new",1
+2020-09-06,"Ariana","state","TN-12","iso_3166_2","cases_new",4
+2020-09-06,"Beja","state","TN-31","iso_3166_2","cases_new",1
+2020-09-06,"Ben Arous","state","TN-13","iso_3166_2","cases_new",2
+2020-09-06,"Gabes","state","TN-81","iso_3166_2","cases_new",4
+2020-09-06,"Gafsa","state","TN-71","iso_3166_2","cases_new",1
+2020-09-06,"Kairouan","state","TN-41","iso_3166_2","cases_new",0
+2020-09-06,"Kasserine","state","TN-42","iso_3166_2","cases_new",3
+2020-09-06,"Mahdia","state","TN-53","iso_3166_2","cases_new",1
+2020-09-06,"Monastir","state","TN-52","iso_3166_2","cases_new",23
+2020-09-06,"Nabeul","state","TN-21","iso_3166_2","cases_new",1
+2020-09-06,"Sidi Bouzid","state","TN-43","iso_3166_2","cases_new",2
+2020-09-06,"Siliana","state","TN-34","iso_3166_2","cases_new",3
+2020-09-06,"Sousse","state","TN-51","iso_3166_2","cases_new",28
+2020-09-06,"Tunis","state","TN-11","iso_3166_2","cases_new",10
+2020-09-07,"Ariana","state","TN-12","iso_3166_2","cases_new",12
+2020-09-07,"Ben Arous","state","TN-13","iso_3166_2","cases_new",4
+2020-09-07,"Bizerte","state","TN-23","iso_3166_2","cases_new",29
+2020-09-07,"Gabes","state","TN-81","iso_3166_2","cases_new",15
+2020-09-07,"Gafsa","state","TN-71","iso_3166_2","cases_new",1
+2020-09-07,"Jandouba","state",NA,"iso_3166_2","cases_new",9
+2020-09-07,"Kairouan","state","TN-41","iso_3166_2","cases_new",2
+2020-09-07,"Kasserine","state","TN-42","iso_3166_2","cases_new",1
+2020-09-07,"Kebili","state","TN-73","iso_3166_2","cases_new",8
+2020-09-07,"Kef","state","TN-33","iso_3166_2","cases_new",17
+2020-09-07,"Mahdia","state","TN-53","iso_3166_2","cases_new",1
+2020-09-07,"Manouba","state","TN-14","iso_3166_2","cases_new",5
+2020-09-07,"Mednine","state","TN-82","iso_3166_2","cases_new",4
+2020-09-07,"Monastir","state","TN-52","iso_3166_2","cases_new",4
+2020-09-07,"Nabeul","state","TN-21","iso_3166_2","cases_new",13
+2020-09-07,"Sfax","state","TN-61","iso_3166_2","cases_new",3
+2020-09-07,"Sidi Bouzid","state","TN-43","iso_3166_2","cases_new",8
+2020-09-07,"Siliana","state","TN-34","iso_3166_2","cases_new",1
+2020-09-07,"Sousse","state","TN-51","iso_3166_2","cases_new",39
+2020-09-07,"Tataouine","state","TN-83","iso_3166_2","cases_new",26
+2020-09-07,"Tunis","state","TN-11","iso_3166_2","cases_new",90
+2020-09-07,"Zaghouan","state","TN-22","iso_3166_2","cases_new",1
+2020-09-08,"Ariana","state","TN-12","iso_3166_2","cases_new",17
+2020-09-08,"Ben Arous","state","TN-13","iso_3166_2","cases_new",243
+2020-09-08,"Gabes","state","TN-81","iso_3166_2","cases_new",11
+2020-09-08,"Jandouba","state",NA,"iso_3166_2","cases_new",9
+2020-09-08,"Kairouan","state","TN-41","iso_3166_2","cases_new",1
+2020-09-08,"Kebili","state","TN-73","iso_3166_2","cases_new",9
+2020-09-08,"Kef","state","TN-33","iso_3166_2","cases_new",9
+2020-09-08,"Manouba","state","TN-14","iso_3166_2","cases_new",15
+2020-09-08,"Mednine","state","TN-82","iso_3166_2","cases_new",7
+2020-09-08,"Monastir","state","TN-52","iso_3166_2","cases_new",54
+2020-09-08,"Nabeul","state","TN-21","iso_3166_2","cases_new",32
+2020-09-08,"Sfax","state","TN-61","iso_3166_2","cases_new",6
+2020-09-08,"Siliana","state","TN-34","iso_3166_2","cases_new",5
+2020-09-08,"Sousse","state","TN-51","iso_3166_2","cases_new",17
+2020-09-08,"Tataouine","state","TN-83","iso_3166_2","cases_new",1
+2020-09-08,"Tunis","state","TN-11","iso_3166_2","cases_new",28
+2020-09-08,"Zaghouan","state","TN-22","iso_3166_2","cases_new",1
 2020-03-02,"Gafsa","state","TN-71","iso_3166_2","deaths_new",0
 2020-03-08,"Mahdia","state","TN-53","iso_3166_2","deaths_new",0
 2020-03-09,"Bizerte","state","TN-23","iso_3166_2","deaths_new",0
@@ -3033,6 +3123,96 @@
 2020-09-03,"Sousse","state","TN-51","iso_3166_2","deaths_new",1
 2020-09-03,"Tataouine","state","TN-83","iso_3166_2","deaths_new",0
 2020-09-03,"Tunis","state","TN-11","iso_3166_2","deaths_new",0
+2020-09-04,"Ariana","state","TN-12","iso_3166_2","deaths_new",0
+2020-09-04,"Beja","state","TN-31","iso_3166_2","deaths_new",0
+2020-09-04,"Ben Arous","state","TN-13","iso_3166_2","deaths_new",0
+2020-09-04,"Bizerte","state","TN-23","iso_3166_2","deaths_new",0
+2020-09-04,"Gabes","state","TN-81","iso_3166_2","deaths_new",0
+2020-09-04,"Jandouba","state",NA,"iso_3166_2","deaths_new",0
+2020-09-04,"Kairouan","state","TN-41","iso_3166_2","deaths_new",0
+2020-09-04,"Kasserine","state","TN-42","iso_3166_2","deaths_new",0
+2020-09-04,"Kebili","state","TN-73","iso_3166_2","deaths_new",0
+2020-09-04,"Kef","state","TN-33","iso_3166_2","deaths_new",0
+2020-09-04,"Mednine","state","TN-82","iso_3166_2","deaths_new",0
+2020-09-04,"Monastir","state","TN-52","iso_3166_2","deaths_new",1
+2020-09-04,"Nabeul","state","TN-21","iso_3166_2","deaths_new",0
+2020-09-04,"Sfax","state","TN-61","iso_3166_2","deaths_new",0
+2020-09-04,"Sidi Bouzid","state","TN-43","iso_3166_2","deaths_new",1
+2020-09-04,"Sousse","state","TN-51","iso_3166_2","deaths_new",2
+2020-09-04,"Tataouine","state","TN-83","iso_3166_2","deaths_new",1
+2020-09-04,"Tunis","state","TN-11","iso_3166_2","deaths_new",1
+2020-09-04,"Zaghouan","state","TN-22","iso_3166_2","deaths_new",0
+2020-09-05,"Ariana","state","TN-12","iso_3166_2","deaths_new",0
+2020-09-05,"Ben Arous","state","TN-13","iso_3166_2","deaths_new",0
+2020-09-05,"Bizerte","state","TN-23","iso_3166_2","deaths_new",0
+2020-09-05,"Gabes","state","TN-81","iso_3166_2","deaths_new",1
+2020-09-05,"Gafsa","state","TN-71","iso_3166_2","deaths_new",0
+2020-09-05,"Jandouba","state",NA,"iso_3166_2","deaths_new",0
+2020-09-05,"Kebili","state","TN-73","iso_3166_2","deaths_new",0
+2020-09-05,"Kef","state","TN-33","iso_3166_2","deaths_new",0
+2020-09-05,"Mahdia","state","TN-53","iso_3166_2","deaths_new",0
+2020-09-05,"Manouba","state","TN-14","iso_3166_2","deaths_new",0
+2020-09-05,"Mednine","state","TN-82","iso_3166_2","deaths_new",0
+2020-09-05,"Monastir","state","TN-52","iso_3166_2","deaths_new",0
+2020-09-05,"Nabeul","state","TN-21","iso_3166_2","deaths_new",0
+2020-09-05,"Sfax","state","TN-61","iso_3166_2","deaths_new",0
+2020-09-05,"Sidi Bouzid","state","TN-43","iso_3166_2","deaths_new",0
+2020-09-05,"Sousse","state","TN-51","iso_3166_2","deaths_new",0
+2020-09-05,"Tunis","state","TN-11","iso_3166_2","deaths_new",0
+2020-09-05,"Zaghouan","state","TN-22","iso_3166_2","deaths_new",0
+2020-09-06,"Ariana","state","TN-12","iso_3166_2","deaths_new",0
+2020-09-06,"Beja","state","TN-31","iso_3166_2","deaths_new",0
+2020-09-06,"Ben Arous","state","TN-13","iso_3166_2","deaths_new",0
+2020-09-06,"Gabes","state","TN-81","iso_3166_2","deaths_new",1
+2020-09-06,"Gafsa","state","TN-71","iso_3166_2","deaths_new",0
+2020-09-06,"Kairouan","state","TN-41","iso_3166_2","deaths_new",1
+2020-09-06,"Kasserine","state","TN-42","iso_3166_2","deaths_new",0
+2020-09-06,"Mahdia","state","TN-53","iso_3166_2","deaths_new",0
+2020-09-06,"Monastir","state","TN-52","iso_3166_2","deaths_new",0
+2020-09-06,"Nabeul","state","TN-21","iso_3166_2","deaths_new",0
+2020-09-06,"Sidi Bouzid","state","TN-43","iso_3166_2","deaths_new",0
+2020-09-06,"Siliana","state","TN-34","iso_3166_2","deaths_new",0
+2020-09-06,"Sousse","state","TN-51","iso_3166_2","deaths_new",0
+2020-09-06,"Tunis","state","TN-11","iso_3166_2","deaths_new",0
+2020-09-07,"Ariana","state","TN-12","iso_3166_2","deaths_new",0
+2020-09-07,"Ben Arous","state","TN-13","iso_3166_2","deaths_new",0
+2020-09-07,"Bizerte","state","TN-23","iso_3166_2","deaths_new",0
+2020-09-07,"Gabes","state","TN-81","iso_3166_2","deaths_new",1
+2020-09-07,"Gafsa","state","TN-71","iso_3166_2","deaths_new",0
+2020-09-07,"Jandouba","state",NA,"iso_3166_2","deaths_new",1
+2020-09-07,"Kairouan","state","TN-41","iso_3166_2","deaths_new",1
+2020-09-07,"Kasserine","state","TN-42","iso_3166_2","deaths_new",0
+2020-09-07,"Kebili","state","TN-73","iso_3166_2","deaths_new",0
+2020-09-07,"Kef","state","TN-33","iso_3166_2","deaths_new",0
+2020-09-07,"Mahdia","state","TN-53","iso_3166_2","deaths_new",0
+2020-09-07,"Manouba","state","TN-14","iso_3166_2","deaths_new",0
+2020-09-07,"Mednine","state","TN-82","iso_3166_2","deaths_new",0
+2020-09-07,"Monastir","state","TN-52","iso_3166_2","deaths_new",0
+2020-09-07,"Nabeul","state","TN-21","iso_3166_2","deaths_new",0
+2020-09-07,"Sfax","state","TN-61","iso_3166_2","deaths_new",0
+2020-09-07,"Sidi Bouzid","state","TN-43","iso_3166_2","deaths_new",0
+2020-09-07,"Siliana","state","TN-34","iso_3166_2","deaths_new",0
+2020-09-07,"Sousse","state","TN-51","iso_3166_2","deaths_new",0
+2020-09-07,"Tataouine","state","TN-83","iso_3166_2","deaths_new",0
+2020-09-07,"Tunis","state","TN-11","iso_3166_2","deaths_new",0
+2020-09-07,"Zaghouan","state","TN-22","iso_3166_2","deaths_new",0
+2020-09-08,"Ariana","state","TN-12","iso_3166_2","deaths_new",0
+2020-09-08,"Ben Arous","state","TN-13","iso_3166_2","deaths_new",0
+2020-09-08,"Gabes","state","TN-81","iso_3166_2","deaths_new",0
+2020-09-08,"Jandouba","state",NA,"iso_3166_2","deaths_new",0
+2020-09-08,"Kairouan","state","TN-41","iso_3166_2","deaths_new",0
+2020-09-08,"Kebili","state","TN-73","iso_3166_2","deaths_new",0
+2020-09-08,"Kef","state","TN-33","iso_3166_2","deaths_new",0
+2020-09-08,"Manouba","state","TN-14","iso_3166_2","deaths_new",0
+2020-09-08,"Mednine","state","TN-82","iso_3166_2","deaths_new",0
+2020-09-08,"Monastir","state","TN-52","iso_3166_2","deaths_new",0
+2020-09-08,"Nabeul","state","TN-21","iso_3166_2","deaths_new",0
+2020-09-08,"Sfax","state","TN-61","iso_3166_2","deaths_new",0
+2020-09-08,"Siliana","state","TN-34","iso_3166_2","deaths_new",0
+2020-09-08,"Sousse","state","TN-51","iso_3166_2","deaths_new",0
+2020-09-08,"Tataouine","state","TN-83","iso_3166_2","deaths_new",0
+2020-09-08,"Tunis","state","TN-11","iso_3166_2","deaths_new",0
+2020-09-08,"Zaghouan","state","TN-22","iso_3166_2","deaths_new",0
 2020-03-02,"Gafsa","state","TN-71","iso_3166_2","recovered_new",0
 2020-03-08,"Mahdia","state","TN-53","iso_3166_2","recovered_new",0
 2020-03-09,"Bizerte","state","TN-23","iso_3166_2","recovered_new",0
@@ -4550,3 +4730,93 @@
 2020-09-03,"Sousse","state","TN-51","iso_3166_2","recovered_new",0
 2020-09-03,"Tataouine","state","TN-83","iso_3166_2","recovered_new",0
 2020-09-03,"Tunis","state","TN-11","iso_3166_2","recovered_new",0
+2020-09-04,"Ariana","state","TN-12","iso_3166_2","recovered_new",0
+2020-09-04,"Beja","state","TN-31","iso_3166_2","recovered_new",0
+2020-09-04,"Ben Arous","state","TN-13","iso_3166_2","recovered_new",0
+2020-09-04,"Bizerte","state","TN-23","iso_3166_2","recovered_new",0
+2020-09-04,"Gabes","state","TN-81","iso_3166_2","recovered_new",0
+2020-09-04,"Jandouba","state",NA,"iso_3166_2","recovered_new",0
+2020-09-04,"Kairouan","state","TN-41","iso_3166_2","recovered_new",0
+2020-09-04,"Kasserine","state","TN-42","iso_3166_2","recovered_new",0
+2020-09-04,"Kebili","state","TN-73","iso_3166_2","recovered_new",0
+2020-09-04,"Kef","state","TN-33","iso_3166_2","recovered_new",0
+2020-09-04,"Mednine","state","TN-82","iso_3166_2","recovered_new",0
+2020-09-04,"Monastir","state","TN-52","iso_3166_2","recovered_new",0
+2020-09-04,"Nabeul","state","TN-21","iso_3166_2","recovered_new",0
+2020-09-04,"Sfax","state","TN-61","iso_3166_2","recovered_new",0
+2020-09-04,"Sidi Bouzid","state","TN-43","iso_3166_2","recovered_new",0
+2020-09-04,"Sousse","state","TN-51","iso_3166_2","recovered_new",0
+2020-09-04,"Tataouine","state","TN-83","iso_3166_2","recovered_new",0
+2020-09-04,"Tunis","state","TN-11","iso_3166_2","recovered_new",0
+2020-09-04,"Zaghouan","state","TN-22","iso_3166_2","recovered_new",0
+2020-09-05,"Ariana","state","TN-12","iso_3166_2","recovered_new",0
+2020-09-05,"Ben Arous","state","TN-13","iso_3166_2","recovered_new",0
+2020-09-05,"Bizerte","state","TN-23","iso_3166_2","recovered_new",0
+2020-09-05,"Gabes","state","TN-81","iso_3166_2","recovered_new",0
+2020-09-05,"Gafsa","state","TN-71","iso_3166_2","recovered_new",0
+2020-09-05,"Jandouba","state",NA,"iso_3166_2","recovered_new",0
+2020-09-05,"Kebili","state","TN-73","iso_3166_2","recovered_new",0
+2020-09-05,"Kef","state","TN-33","iso_3166_2","recovered_new",0
+2020-09-05,"Mahdia","state","TN-53","iso_3166_2","recovered_new",0
+2020-09-05,"Manouba","state","TN-14","iso_3166_2","recovered_new",0
+2020-09-05,"Mednine","state","TN-82","iso_3166_2","recovered_new",0
+2020-09-05,"Monastir","state","TN-52","iso_3166_2","recovered_new",0
+2020-09-05,"Nabeul","state","TN-21","iso_3166_2","recovered_new",0
+2020-09-05,"Sfax","state","TN-61","iso_3166_2","recovered_new",0
+2020-09-05,"Sidi Bouzid","state","TN-43","iso_3166_2","recovered_new",0
+2020-09-05,"Sousse","state","TN-51","iso_3166_2","recovered_new",0
+2020-09-05,"Tunis","state","TN-11","iso_3166_2","recovered_new",0
+2020-09-05,"Zaghouan","state","TN-22","iso_3166_2","recovered_new",0
+2020-09-06,"Ariana","state","TN-12","iso_3166_2","recovered_new",0
+2020-09-06,"Beja","state","TN-31","iso_3166_2","recovered_new",0
+2020-09-06,"Ben Arous","state","TN-13","iso_3166_2","recovered_new",0
+2020-09-06,"Gabes","state","TN-81","iso_3166_2","recovered_new",0
+2020-09-06,"Gafsa","state","TN-71","iso_3166_2","recovered_new",0
+2020-09-06,"Kairouan","state","TN-41","iso_3166_2","recovered_new",0
+2020-09-06,"Kasserine","state","TN-42","iso_3166_2","recovered_new",0
+2020-09-06,"Mahdia","state","TN-53","iso_3166_2","recovered_new",0
+2020-09-06,"Monastir","state","TN-52","iso_3166_2","recovered_new",0
+2020-09-06,"Nabeul","state","TN-21","iso_3166_2","recovered_new",0
+2020-09-06,"Sidi Bouzid","state","TN-43","iso_3166_2","recovered_new",0
+2020-09-06,"Siliana","state","TN-34","iso_3166_2","recovered_new",0
+2020-09-06,"Sousse","state","TN-51","iso_3166_2","recovered_new",0
+2020-09-06,"Tunis","state","TN-11","iso_3166_2","recovered_new",0
+2020-09-07,"Ariana","state","TN-12","iso_3166_2","recovered_new",0
+2020-09-07,"Ben Arous","state","TN-13","iso_3166_2","recovered_new",0
+2020-09-07,"Bizerte","state","TN-23","iso_3166_2","recovered_new",0
+2020-09-07,"Gabes","state","TN-81","iso_3166_2","recovered_new",0
+2020-09-07,"Gafsa","state","TN-71","iso_3166_2","recovered_new",0
+2020-09-07,"Jandouba","state",NA,"iso_3166_2","recovered_new",0
+2020-09-07,"Kairouan","state","TN-41","iso_3166_2","recovered_new",0
+2020-09-07,"Kasserine","state","TN-42","iso_3166_2","recovered_new",0
+2020-09-07,"Kebili","state","TN-73","iso_3166_2","recovered_new",0
+2020-09-07,"Kef","state","TN-33","iso_3166_2","recovered_new",0
+2020-09-07,"Mahdia","state","TN-53","iso_3166_2","recovered_new",0
+2020-09-07,"Manouba","state","TN-14","iso_3166_2","recovered_new",0
+2020-09-07,"Mednine","state","TN-82","iso_3166_2","recovered_new",0
+2020-09-07,"Monastir","state","TN-52","iso_3166_2","recovered_new",0
+2020-09-07,"Nabeul","state","TN-21","iso_3166_2","recovered_new",0
+2020-09-07,"Sfax","state","TN-61","iso_3166_2","recovered_new",0
+2020-09-07,"Sidi Bouzid","state","TN-43","iso_3166_2","recovered_new",0
+2020-09-07,"Siliana","state","TN-34","iso_3166_2","recovered_new",0
+2020-09-07,"Sousse","state","TN-51","iso_3166_2","recovered_new",0
+2020-09-07,"Tataouine","state","TN-83","iso_3166_2","recovered_new",0
+2020-09-07,"Tunis","state","TN-11","iso_3166_2","recovered_new",0
+2020-09-07,"Zaghouan","state","TN-22","iso_3166_2","recovered_new",0
+2020-09-08,"Ariana","state","TN-12","iso_3166_2","recovered_new",0
+2020-09-08,"Ben Arous","state","TN-13","iso_3166_2","recovered_new",0
+2020-09-08,"Gabes","state","TN-81","iso_3166_2","recovered_new",0
+2020-09-08,"Jandouba","state",NA,"iso_3166_2","recovered_new",0
+2020-09-08,"Kairouan","state","TN-41","iso_3166_2","recovered_new",0
+2020-09-08,"Kebili","state","TN-73","iso_3166_2","recovered_new",0
+2020-09-08,"Kef","state","TN-33","iso_3166_2","recovered_new",0
+2020-09-08,"Manouba","state","TN-14","iso_3166_2","recovered_new",0
+2020-09-08,"Mednine","state","TN-82","iso_3166_2","recovered_new",0
+2020-09-08,"Monastir","state","TN-52","iso_3166_2","recovered_new",0
+2020-09-08,"Nabeul","state","TN-21","iso_3166_2","recovered_new",0
+2020-09-08,"Sfax","state","TN-61","iso_3166_2","recovered_new",0
+2020-09-08,"Siliana","state","TN-34","iso_3166_2","recovered_new",0
+2020-09-08,"Sousse","state","TN-51","iso_3166_2","recovered_new",0
+2020-09-08,"Tataouine","state","TN-83","iso_3166_2","recovered_new",0
+2020-09-08,"Tunis","state","TN-11","iso_3166_2","recovered_new",0
+2020-09-08,"Zaghouan","state","TN-22","iso_3166_2","recovered_new",0
